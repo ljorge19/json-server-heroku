@@ -2,7 +2,7 @@
 {
   "pessoas": [
     {
-      "nome": "leandro de jesus jorge",
+      "nome": "Leandro de jesus jorge",
       "cpf": "36272435865",
       "email": "leandro.jorge19@gmail.com",
       "telefone": "11-97648-2488",
@@ -18,7 +18,7 @@
       "id": 2
     },
     {
-      "nome": "tony stark",
+      "nome": "Tony stark",
       "cpf": "43567896543",
       "email": "tonystark@gmail.com",
       "telefone": "11-98844-8764",
@@ -42,7 +42,7 @@
       "id": 5
     },
 	 {
-      "nome": "natasha romanoff",
+      "nome": "Natasha romanoff",
       "cpf": "16235472222",
       "email": "natasharomanoff@gmail.com",
       "telefone": "11-96584-1254",
